@@ -1,0 +1,30 @@
+<resources>
+    <!--HomeAct-->
+    <string name="app_name">TourMate</string>
+    <string name="check_tour_place_suitability">Personalized Travel Recommendations</string>
+    <string name="note">*** Please, provide all information below ***</string>
+    <string name="seaLover">Are you a sea lover?</string>
+    <string name="mountainLover">Do you have fondness for the mountain?</string>
+    <string name="historyLover">Do you have an interest in history?</string>
+    <string name="availEntFaci">Are you an  entertainment lover?</string>
+    <string name="hotelNeeded">Would you like to stay in hotel?</string>
+    <string name="hotelType">What type of hotel do you prefer?</string>
+    <string name="transport">Would you like to use any transportation service?</string>
+    <string name="days">For how many days do you plan to travel?</string>
+    <string name="place">What is your preferred destination?</string>
+    <string name="budget">What is your budget for the trip?</string>
+    <string name="travelGuide">Do you require the assistance of a travel guide?</string>
+    <string name="attractions">Do you have a preferrence between natural and man-made attractions?</string>
+    <string name="travellingPartner">Do you have a traveling partner?</string>
+    <string name="safe">Do you prefer to travel to a safer place?</string>
+    <string name="foodStalls">Do you consider yourself a foodie?</string>
+    <string name="localFriendship">Do you prefer to visit a place that is tourist friendly?</string>
+    <string name="startingPoint">What is your departure location or starting point?</string>
+
+    <string name="description">TourMate is a personalized travel recommendation app that helps users find the perfect destination based on their preferences and criteria</string>
+
+    <string name="msg_false">Sorry!</string>
+    <string name="msg_false_desc">This place may not be the best fit for your travel needs</string>
+    <string name="msg_true">Best Wishes!</string>
+    <string name="msg_true_desc">This place is an excellent fit for your travel needs.</string>
+</resources>
